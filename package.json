@@ -1,6 +1,6 @@
 {
-  "name": "hello-word",
-  "version": "0.1.0",
+  "name": "Demetrius",
+  "version": "33.81.32",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
